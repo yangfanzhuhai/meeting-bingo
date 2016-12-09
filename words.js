@@ -2,7 +2,7 @@ var phrases = [
   'we can discuss',
   'some of these things',
   'terrible!',
-  'what\'s your plan',
+  'What is your roadmap / milestone for next quarter',
   'big data',
   'R',
   'data science',
